@@ -1,4 +1,4 @@
-var app = angular.module('myApp', []);
+var app = angular.module('myApp', ['ui.bootstrap']);
 function TimeObj () {
 	var cities = {
 		'Los Angeles': -8,
